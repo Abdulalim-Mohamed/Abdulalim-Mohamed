@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis & Data Science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on any project related to data science 
-- 📫 How to reach me by mail : abdelaleem20172017@gmail.com or Phone +20 1116139987 
+- 📫 How to reach me by mail : abdelaleem20172017@gmail.com or Phone +20 1116139987  Facebook : https://www.facebook.com/abdelaleemm3/ 
 
 <!---
 Abdulalim-Mohamed/Abdulalim-Mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
